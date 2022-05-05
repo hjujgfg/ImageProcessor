@@ -1,0 +1,6 @@
+numpy
+scipy
+Pillow
+opencv-contrib-python
+tensorflow
+tensorflow_hub
